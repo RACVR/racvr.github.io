@@ -1,2 +1,2 @@
-# rcva
-Railway Computer Vision Alliance
+# About RACVR
+Research Alliance for Computer Vision in Railways
